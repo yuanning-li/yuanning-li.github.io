@@ -1,0 +1,40 @@
+url: https://y7kim.github.io
+baseurl: ''
+
+# Site settings
+title: "Yuanning Li's Research"
+email: yuanning.li@yale.edu
+description: "Yuanning Li's Research Page."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  link: CBA72B
+  primary: fed136
+  secondary: fec503
+  secondary-dark: 000
+
+# Team names, titles and social links
+people:
+- name: Yuanning Li
+  pic: Li
+  position: Postdoc
+  description: My CV is available <a href="/assets/Casey_Dunn_CV.pdf">here</a>.
+  social:
+    - title: twitter
+      url: https://twitter.com/YuanningLi1
+    - title: google
+      url: https://scholar.google.com/citations?user=65ygCIsAAAAJ&hl=en
+    - title: Researchgate
+      url: https://www.researchgate.net/profile/Yuanning_Li2
+    - title: github
+      url: https://github.com/yzl0084
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 165 Prospect St.
+  - line: Yale University
+  - line: New Haven, CT 06511
+
+# Build settings
+markdown: kramdown
+permalink: pretty
