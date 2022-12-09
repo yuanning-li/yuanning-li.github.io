@@ -1,0 +1,233 @@
+/*
+Theme Name: eForest 
+Theme url:
+Author:QuomodoTheme
+Author url:
+Version:1.0.0
+Tag:Charity HTML Theme
+Description:
+
+================+/+/+/+/+/+/+/+/+/=================
+                    heigh
+================+/+/+/+/+/+/+/+/+/=================
+*/
+
+@media only screen and (max-width: 1400px) {
+    .donation_heading h2 {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    img.donation_img {
+        width: 45%;
+    }
+    a.w3logo {
+        padding: 20px 10px !important;
+    }
+    .main-menu li a {
+        padding: 10px 10px;
+    }
+}
+/*
+================+/+/+/+/+/+/+/+/+/=================
+                     tab
+================+/+/+/+/+/+/+/+/+/=================
+*/
+
+@media only screen and (max-width: 991px) {
+    .donation_heading {
+        margin-top: 50px;
+    }
+    .stellarnav.main-menu.light.right.mobile {
+        float: right;
+    }
+}
+/*tablet layout:768px*/
+
+@media only screen and(min-width: 768px) and (max-width: 991px) {}
+/*
+================+/+/+/+/+/+/+/+/+/=================
+                    Mobile
+================+/+/+/+/+/+/+/+/+/=================
+*/
+
+@media only screen and (max-width: 767px) {
+    .head_socials ul {
+        margin: 15px 0;
+        text-align: left;
+    }
+    .single_service {
+        margin-bottom: 30px;
+    }
+    .welcome-right_img1,
+    .counter_left {
+        display: none;
+    }
+    .welcome_wrap,
+    .heading {
+        text-align: center;
+    }
+    .single_about,
+    .team_img,
+    .cta_heading,
+    .single_product_show,
+    .single_shop_view {
+        margin-bottom: 30px;
+    }
+    .single_blog {
+        margin-top: 40px;
+    }
+    .single_customer {
+        padding: 20px 20px 20px 60px;
+        margin: 20px 20px 20px 53px;
+        position: relative;
+    }
+    .v3sinngle_service.service_left {
+        display: block;
+        margin-bottom: 30px;
+    }
+    .cta_img1,
+    .welcome_img {
+        display: none;
+    }
+    .login_btns {
+        float: left;
+        margin: 15px 0px;
+    }
+    h1 {
+        font-size: 45px !important;
+        line-height: 55px !important;
+    }
+    h2 {
+        font-size: 28px !important;
+        line-height: 35px !important
+    }
+    .nav-link {
+        padding: 10px;
+    }
+    .single_case,
+    .client_left,
+    .single_footer {
+        margin-bottom: 30px;
+    }
+    .about_donation {
+        padding: 20px;
+    }
+    .contact-area.v2 .Contact_form input {
+        width: 100% !important;
+        position: relative;
+        z-index: 2;
+        margin-bottom: 20px;
+    }
+    .w3_wrap h1 {
+        letter-spacing: 0px;
+    }
+    .v3contact_social li a {
+        height: 0;
+        width: 50px;
+        text-align: center;
+        line-height: 50px;
+        font-size: 16px;
+        color: #c1a7e5;
+        border-radius: 50%;
+        border: none;
+        margin-left: -24px;
+    }
+    .single_v3Logo {
+        margin: 20px;
+    }
+    .counter_wrap:before,
+    .counter_wrap:after {
+        display: none;
+    }
+    .counter_wrap h2.counter {
+        font-size: 40px !important;
+    }
+    .mb150.single_counter {
+        margin-bottom: 60px;
+    }
+    .single_counter {
+        margin-bottom: 60px
+    }
+    .voulenteer_heading h1 {
+        margin: 30px 0;
+    }
+    .single_voulenteer {
+        margin-bottom: 200px;
+    }
+    .v3makedonatonarea {
+        margin-left: 0;
+    }
+    img.donation_img {
+        display: none
+    }
+    .makedonationform input,
+    .makedonationform select {
+        width: 100% !important;
+    }
+    .showcase-area .owl-dots {
+        bottom: -8%;
+        left: 39%;
+    }
+    .space-sm-50 {
+        height: 50px;
+    }
+    .client_carousel {
+        padding: 30px 15px;
+    }
+    .menu-area.v3 {
+        padding: 15px 0;
+    }
+    a.w3logo {
+        padding: 0 0 !important;
+    }
+    img.w3bg {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        z-index: -1;
+        height: 320px;
+        width: 320px;
+        margin-left: -160px;
+        margin-top: -160px;
+    }
+    img.w3bg2 {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        width: 400px;
+        height: 350px;
+        z-index: -1;
+        margin-left: -200px;
+        margin-top: -175px;
+        animation: spins infinite alternate ease 10s;
+    }
+    .input_wrap {
+        width: 100%;
+    }
+    .header-area {
+        display: none;
+    }
+    .welcome-area.inner h1 {
+        font-size: 46px !important;
+    }
+    .Cpagination {
+        margin-bottom: 50px;
+    }
+    .single_blog_carousel {
+        padding: 20px;
+    }
+}
+/*
+================+/+/+/+/+/+/+/+/+/=================
+                    wid device
+================+/+/+/+/+/+/+/+/+/=================
+*/
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .container {
+        width: 480px;
+    }
+}
+/*=========================================================================
+                                The end
+==========================================================================*/
