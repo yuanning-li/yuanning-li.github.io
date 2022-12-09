@@ -1,0 +1,46 @@
+
+/*
+Name: CUstom animation css;
+Version:"1.0;
+
+*/
+
+/*Image zoom effcets*/
+.zoomInEffect {
+    overflow: hidden;
+}
+
+.zoomInEffect img {
+    transition: all .3s;
+}
+
+.zoomInEffect:hover img {
+    transform: scale3d(1.2, 1.2, 1.2);
+    transition: all .3s;
+}
+
+/*transitions/*/
+.transition3, 
+.transition3 img, 
+.transition3:hover img, 
+.transition3:hover, 
+.transition3:after, 
+.transition3:before, 
+.transition3:focus, 
+.transition3:after:hover, 
+.transition3:hover:after, 
+.transition3:hover:before, 
+.transition3 a,
+.transition3 p, 
+.transition3 h1, 
+.transition3 h2, 
+.transition3 h3, 
+.transition3 h4, 
+.transition3 h5, 
+.transition3 h6, 
+.transition3 a:hover, 
+i,
+i:hover, 
+{
+	transition: all .3s !important;	
+}
