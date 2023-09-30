@@ -703,7 +703,7 @@ p.heading_after:after {
 }
 
 .case_bg_cover2021 {
-    background: url(https://cdn.vanderbilt.edu/vu-wp0/wp-content/uploads/sites/191/2021/04/26155739/CB3_cover.jpg);
+    background: url(../img/case/CB3_cover.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -941,7 +941,7 @@ p.heading_after:after {
 */
 
 .contact_bg1 {
-    background: url(../img/bg/lab_all2.jpeg);
+    background: url(../img/bg/lilab2023.jpg);
 }
 
 .contact-area,
