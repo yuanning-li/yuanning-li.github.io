@@ -1904,9 +1904,9 @@ a.cbtn.lbtn.active:hover {
 }
 
 .col-lg-20 {
-    margin-right: 20px;
-    width: 40px;
-    height: 40px;
+    margin-right: 40px;
+    width: 80px;
+    height: 80px;
 
 }
 
@@ -3298,4 +3298,29 @@ span.input-form:after {
 
 .main-menu.main-menu3.stellarnav.d-inline.light.right.mobile .menu-toggle span.bars span {
     background: #fff;
+}
+
+/* Alumni css */
+.image-text-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    width: 30%; /* 每个部分占据一行的30% */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+}
+
+.item img {
+    max-width: 100px; /* 设置图片最大宽度 */
+    margin-right: 10px; /* 图片与文字之间的间距 */
+}
+
+.item-text {
+    max-width: 80%; /* 控制文字区域的宽度 */
 }
